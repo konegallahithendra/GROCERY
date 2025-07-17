@@ -29,7 +29,7 @@ const About = () => {
     <div className="bg-gray-100">
       <div className="max-w-6xl mx-auto py-12 px-4 mt-16">
         <div className="text-center mb-16">
-          <h1 className="text-4xl font-bold mb-4 text-green-700">About FreshMart</h1>
+          <h1 className="text-4xl font-bold mb-4 text-green-700">About GroceryMart</h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             Your neighborhood grocery store committed to providing fresh, quality products since 2005.
           </p>
@@ -40,7 +40,7 @@ const About = () => {
             <h2 className="text-3xl font-semibold mb-6 text-green-600">Our Story</h2>
             <div className="space-y-4 text-gray-600">
               <p>
-                FreshMart began with a simple idea: to create a grocery store that offers the freshest produce, highest
+                GroceryMart began with a simple idea: to create a grocery store that offers the freshest produce, highest
                 quality meats, and finest selection of everyday essentials at fair prices.
               </p>
               <p>
@@ -93,7 +93,7 @@ const About = () => {
 
 
         <div className="bg-green-50 p-8 rounded-lg">
-          <h2 className="text-2xl font-semibold mb-4 text-green-600 text-center">Join the FreshMart Family</h2>
+          <h2 className="text-2xl font-semibold mb-4 text-green-600 text-center">Join the GroceryMart Family</h2>
           <p className="text-center text-gray-600 mb-6">
             We're always looking for passionate individuals to join our team. Check out our current openings!
           </p>

@@ -7,7 +7,7 @@ const Contact = () => {
     <div className='bg-gray-100 '>
       <div className="min-h-screen max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2  items-center justify-center p-4 mt-16 md:mt-0">
         <div className="bg-white shadow-lg rounded-lg p-6 w-full max-w-md mb-6">
-          <h2 className="text-2xl font-bold text-center text-green-600">Contact Freshmart</h2>
+          <h2 className="text-2xl font-bold text-center text-green-600">Contact Grocerymart</h2>
           <p className="text-gray-600 text-center mt-2">We would love to hear from you!</p>
 
           <form className="mt-4">
@@ -48,8 +48,8 @@ const Contact = () => {
               <Mail className="h-5 w-5 text-green-600 mt-1 mr-3" />
               <div>
                 <h3 className="font-medium">Email</h3>
-                <p className="text-gray-600">info@freshmart.com</p>
-                <p className="text-gray-600">orders@freshmart.com</p>
+                <p className="text-gray-600">info@grocerymart.com</p>
+                <p className="text-gray-600">orders@grocerymart.com</p>
               </div>
             </div>
 

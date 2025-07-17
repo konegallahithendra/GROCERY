@@ -7,7 +7,7 @@ const Footer = () => {
       <div className='max-w-6xl mx-auto'>
         <div className='grid grid-cols-1 md:grid-cols-4 gap-8'>
             <div>
-                <h3 className='text-xl font-bold mb-4'>FreshMart</h3>
+                <h3 className='text-xl font-bold mb-4'>GroceryMart</h3>
                 <p className='mb-4'>Your one-stop shop for fresh groceries delivered to your doorstep.</p>
                 <div className='mt-3'>
                     <h3 className='font-medium mb-4'>Follow Us</h3>
@@ -40,11 +40,11 @@ const Footer = () => {
                 <h3 className='text-xl font-bold mb-4'>Contact</h3>
                 <p className='mb-2'>123 Grocery St, Food City</p>
                 <p className='mb-2'>Phone: (123) 456-7890</p>
-                <p className='mb-2'>Email: info@freshmart.com</p>
+                <p className='mb-2'>Email: info@grocerymart.com</p>
             </div>
         </div>
         <div className='mt-8 pt-8 border-t border-gray-700 text-center'>
-            <p>&copy; {new Date().getFullYear()} FreshMart. All rights reserved</p>
+            <p>&copy; {new Date().getFullYear()} GroceryMart. All rights reserved</p>
         </div>
       </div>
     </footer>
